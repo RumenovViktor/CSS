@@ -1,0 +1,47 @@
+body{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    padding: 0;
+    background-color: #9e9e99;
+    font-size: 19px;
+    font-style: normal;
+}
+
+.title{
+    color: #dede56;
+}
+
+#header{
+    font-size: 3em;
+}
+
+#telerik-info, #header, li{
+    text-align: center;
+    position: relative;
+}
+
+.post-date{
+    font-size: 18px;
+}
+
+.author-profile-link, a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    list-style: none;
+    font-size: 1.4em;
+}
+
+.nav-element, .current{
+    color: #bdbd18;
+}
+
+.current{
+    background-color: #d6d6c9;
+}
+
+li:hover{
+    background-color: #d6d6c9;
+}

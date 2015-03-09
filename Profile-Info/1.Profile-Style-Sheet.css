@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+    color: #edebe1;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#table-block{
+    background-color: #94938c;
+    width: 35%;
+}
+
+#table-head{
+    color: #cccbc6;
+    font-size: 29px;
+}
+.important-info-color{
+    color: #d9cd7e;  
+    font-style: normal;
+}
+
+#person-on{
+    width: 16px;
+    height: 16px;
+}
+
+#not-active-color{
+    color: #e00707;   
+}
+
+.time-location{
+    color: #c7c1c1;
+}
+
+#not-answered-color{
+    color: orange;
+}

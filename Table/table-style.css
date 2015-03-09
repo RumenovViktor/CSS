@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    font-size: 19px;
+    margin: 10%;
+    padding: 0;
+}
+
+table{
+    background-color: #ecf0eb;
+    border-radius: 12px;
+    border: 1px solid black;
+    width: 700px;
+    height: 190px;
+}
+
+.checkbox-position{
+    position: absolute;
+    margin-left: 38px;
+    
+}
+
+#table-head{
+    background-color: #54d63a;
+    font-size: 24px;
+    color: white;
+}
+
+tr:nth-last-of-type(even)
+{
+    background: white;
+}
